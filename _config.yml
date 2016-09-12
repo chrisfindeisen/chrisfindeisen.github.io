@@ -17,10 +17,10 @@ description: Raumausstatter & Montagen <br>
 owner:
   name: Christopher Findeisen
   email: chrisfindeisen@web.de
-  url: http://chrisfindeisen.github.io
+  url: http://www.chrisfindeisen.github.io
 first_published: 2016 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chrisfindeisen.github.io" # the base hostname & protocol for your site
+url: "http://www.chrisfindeisen.github.io" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
